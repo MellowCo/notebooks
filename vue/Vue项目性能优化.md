@@ -331,7 +331,7 @@ new webpack.optimize.CommonsChunkPlugin({
 
 SourceMap 的可选值如下（+ 号越多，代表速度越快，- 号越多，代表速度越慢, o 代表中等速度 ）
 
-![](https://gitee.com/mellowco/BlobImg/raw/master/img/640.webp)
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/20200624085033.png)
 
 **开发环境推荐：cheap-module-eval-source-map**
 
@@ -388,7 +388,7 @@ app.use(compression())
 ```
 
 - 重启服务，观察网络面板里面的 response header，如果看到如下红圈里的字段则表明 gzip 开启成功 ：
-- ![](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (1).webp)
+- ![](https://gitee.com/mellowco/BlobImg/raw/master/img/20200624085054.png)
 
 ### 3.2、浏览器缓存
 
@@ -407,7 +407,7 @@ Chrome 的 Performance 面板可以录制一段时间内的 js 执行细节及�
 3. 刷新页面或展开某个节点
 4. 点击 Stop 停止录制
 
-![img](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (2).webp)
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/20200624085119.png)
 
 更多关于 Performance 的内容可以点击这里查看。
 
