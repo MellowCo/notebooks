@@ -207,7 +207,7 @@ export default {
 
 上面这种写法，当出现多种类型的button，就会显得杂乱无章，当然，很多人会选择去封装一个button组件，那么这个组件的封装，又是一个技巧点，利用`VUE`的`render`函数，减少不必要的`template`，因此ru我们可以这样写
 
-```
+```js
 // 创建一个button.vue文件 写法如下
 
 <script>

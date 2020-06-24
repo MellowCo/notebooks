@@ -45,7 +45,7 @@
 
 效果如下
 
-![img](E:\笔记\收藏\css\img\640.gif)
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/6401.gif))
 
 ## 2. CSS图像边框
 
@@ -83,7 +83,7 @@
 
 效果如下
 
-![img](E:\笔记\收藏\css\img\640.webp)
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/6401.webp)
 
 ## 3.蛇式CSS边框
 
@@ -111,7 +111,7 @@
 
 效果如下
 
-![img](E:\笔记\收藏\css\img\640 (1).webp)
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (11).webp)
 
 ## 4.阶梯样式CSS边框
 
@@ -143,7 +143,7 @@
 
 效果
 
-![img](E:\笔记\收藏\css\img\640 (2).webp)
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (21).webp)
 
 ## 5.只有阴影CSS边框
 
@@ -166,7 +166,7 @@
 
 效果
 
-![img](E:\笔记\收藏\css\img\640 (3).webp)
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (31).webp)
 
 ## 6.带阴影和轮廓的CSS边框
 
@@ -189,7 +189,7 @@
 
 效果
 
-![img](E:\笔记\收藏\css\img\640 (4).webp)
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (4).webp)
 
 ## 7.少量阴影和轮廓
 
@@ -218,7 +218,7 @@
 
 效果
 
-![img](E:\笔记\收藏\css\img\640 (5).webp)
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (5).webp)
 
 ## 8.带有阴影的双CSS边框
 
@@ -244,7 +244,9 @@
 
 效果
 
-![img](E:\笔记\收藏\css\img\640 (6).webp)
+
+
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (6).webp)
 
 ## 9.多色CSS边框
 
@@ -275,4 +277,4 @@
 
 效果
 
-![img](E:\笔记\收藏\css\img\640 (7).webp)
+![](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (7).webp)
