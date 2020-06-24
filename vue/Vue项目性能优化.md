@@ -407,7 +407,7 @@ Chrome 的 Performance 面板可以录制一段时间内的 js 执行细节及�
 3. 刷新页面或展开某个节点
 4. 点击 Stop 停止录制
 
-![](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (2).webp)
+![img](https://gitee.com/mellowco/BlobImg/raw/master/img/640 (2).webp)
 
 更多关于 Performance 的内容可以点击这里查看。
 
