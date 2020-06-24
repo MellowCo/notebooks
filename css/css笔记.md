@@ -23,7 +23,7 @@ CSS的出现，拯救了混乱的HTML，当让更加拯救了我们web开发者�
 
 CSS的最大贡献就是：  让 HTML 从样式中解脱苦海，  实现了 HTML 专注去做 结构呈现。 而样式交给 CSS 后，你完全可以放心的早点洗洗睡了！
 
-![](https://gitee.com/mellowco/BlobImg/raw/master/img/x.jpg)
+![img](https://gitee.com/mellowco/BlobImg/raw/master/img/x.jpg)
 
 
 
