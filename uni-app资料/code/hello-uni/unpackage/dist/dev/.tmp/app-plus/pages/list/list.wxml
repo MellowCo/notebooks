@@ -1,0 +1,1 @@
+<view><button data-event-opts="{{[['tap',[['get',['$event']]]]]}}" bindtap="__e">发送get请求</button><view>这是列表页</view><block wx:for="{{list}}" wx:for-item="item" wx:for-index="__i0__"><view class="box-item">{{''+item+''}}</view></block></view>

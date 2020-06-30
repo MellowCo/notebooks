@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nwx-view{ color: green; }\n.",[1],"box1 { width: ",[0,375],"; height: ",[0,375],"; background: red; font-size: ",[0,30],"; color: #fff; }\n.",[1],"box1 wx-text { color: pink; }\n",],undefined,{path:"./pages/uni-style/uni-style.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/uni-style/uni-style.wxml') } }));

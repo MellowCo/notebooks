@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"box{ width:100px; height: 100px; background: green; }\n.",[1],"box2 { width: 200px; height: 200px; background: blue; }\n.",[1],"box-active { background: red; }\n.",[1],"box2-active { background: pink; }\n",],undefined,{path:"./pages/detail/detail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/detail/detail.wxml') } }));

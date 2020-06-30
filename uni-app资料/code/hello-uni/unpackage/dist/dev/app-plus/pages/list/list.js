@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"box-item{ height: 100px; line-height: 100px; }\n",],undefined,{path:"./pages/list/list.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/list/list.wxml') } }));

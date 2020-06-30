@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/list/list",
+    "pages/index/index",
+    "pages/home/home",
+    "pages/uni-style/uni-style",
+    "pages/message/message",
+    "pages/contact/contact",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "绿帽子",
+    "navigationBarBackgroundColor": "#7FFF00",
+    "backgroundColor": "#7CCD7C",
+    "backgroundTextStyle": "light"
+  },
+  "tabBar": {
+    "color": "#A0522D",
+    "selectedColor": "#B3EE3A",
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "position": "top",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/home.png",
+        "selectedIconPath": "static/tabs/home-active.png"
+      },
+      {
+        "text": "信息",
+        "pagePath": "pages/message/message",
+        "iconPath": "static/tabs/message.png",
+        "selectedIconPath": "static/tabs/message-active.png"
+      },
+      {
+        "text": "我们",
+        "pagePath": "pages/contact/contact",
+        "iconPath": "static/tabs/contact.png",
+        "selectedIconPath": "static/tabs/contact-active.png"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "hello-uni",
+  "compilerVersion": "2.4.6",
+  "usingComponents": {}
+}
